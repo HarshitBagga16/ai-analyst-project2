@@ -1,0 +1,17 @@
+date,region,product,quantity,unit_price
+2026-01-05,North,Laptop,5,800
+2026-01-08,South,Phone,12,500
+2026-01-12,East,Laptop,3,800
+2026-01-15,West,Tablet,10,300
+2026-02-03,North,Phone,8,500
+2026-02-10,South,Laptop,6,800
+2026-02-14,East,Phone,15,500
+2026-02-20,West,Laptop,4,800
+2026-03-01,North,Tablet,12,300
+2026-03-07,South,Phone,10,500
+2026-03-12,East,Laptop,7,800
+2026-03-18,West,Phone,18,500
+2026-04-02,North,Laptop,9,800
+2026-04-09,South,Tablet,14,300
+2026-04-15,East,Phone,20,500
+2026-04-22,West,Laptop,6,800
