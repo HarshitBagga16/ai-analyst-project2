@@ -4,4 +4,3 @@ numpy
 scipy
 python-dotenv
 openai
-os
