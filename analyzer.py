@@ -1,15 +1,15 @@
 import pandas as pd
 
 
-def analyze_csv(file_path):
+def analyze_csv(file):
 
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file)
 
     # -------------------------
     # Basic preprocessing
     # -------------------------
 
-    df["date"] = pd.to_datetime(df["date"])
+    df["date"] = pd.to_datetime(df["date"] , errors="coerce")
 
     df["revenue"] = df["quantity"] * df["unit_price"]
 
