@@ -1,5 +1,6 @@
 # 🤖 AI Data Analyst
 
+Live Url : https://ai-analyst-project2-dytfspvkaexr3biui69nza.streamlit.app/
 An LLM-powered data analysis application that combines **deterministic Python/Pandas analysis with Generative AI** to answer natural-language questions about CSV datasets.
 
 The core principle of this project is:
